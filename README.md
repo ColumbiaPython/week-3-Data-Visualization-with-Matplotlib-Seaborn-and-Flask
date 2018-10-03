@@ -8,7 +8,7 @@ The main goal of this lecture:
 
 ## Part two: programming
 
-#### for all students
+#### For all students
 
 ##### Multivariate Analysis with Visualization
 1. Correlation Headmap
@@ -21,7 +21,9 @@ build your data analytic web app!
 
 #### Reference: https://python-for-multivariate-analysis.readthedocs.io/a_little_book_of_python_for_multivariate_analysis.html
 
-for the new students only (a makeup 30min section after class, or make an appointment with me)
+#### the new students only 
+(a makeup 30-minute section after class, or make an appointment with me)
+
 1. terminal operation: call jupyter notebook, learn about 'pip install XXXXX'
 2. notebook from week1: intro to Pandas, load dataset into jupyter notebook, data exploration analysis, data cleaning
 3. notebook from week1: learn about data structure (Lecture_One_Data_Structure.ipynb)
