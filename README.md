@@ -3,26 +3,35 @@
 The main goal of this lecture:
 
 ## Part one: class organization
-1. introduce new students in the class (Yes, we have new students come every class......)
+1. introduce new students in the class (Yes, we have new students come every class....)
 2. all students talk about the progress of their research proposal writing (due next week)
 
 ## Part two: programming
 
 for all students
 
-5. Multivariate Analysis: 
-a. example question, concept, data analysis
+1. Multivariate Analysis: 
+a. Correlation Headmap
+b. PCA
+c. LDA (linear discriminant analysis, not the text mining one....)
+d. Introduction to F1, recall and precision: common metrics for machine learning
 
-for the new students only (a makeup 30min section after class)
+2. Visualization with Flask
+a. build your data analytic web app!
+
+Reference: 
+
+for the new students only (a makeup 30min section after class, or make an appointment with me)
 1. terminal operation: call jupyter notebook, learn about 'pip install XXXXX'
 2. notebook from week1: intro to Pandas, load dataset into jupyter notebook, data exploration analysis, data cleaning
 3. notebook from week1: learn about data structure (Lecture_One_Data_Structure.ipynb)
+4. notebook from week2: learn about linear regression and the concepts of p-values,sklearn and statistic computation package (Lecture_Two_Linear_Regression)
 
 ## Part three: project management
-1. make sure all students are the members of ColumbiaPython organization in Github
-2. every student create individual project in ColumbiaPython (nameing: Project_lastname)
-3. start writing proposal in github as a readme file
-4. upload new files into github (reference papers, data & codes)
+ 
+1. every student create individual project in ColumbiaPython (we have four now)
+2. finish research proposal in github as a readme file: a. what is your research question? b. why your dataset can answer the question?
+3. upload new files into github (reference papers, data & codes)
 
 
 ## Prepare for Next week
