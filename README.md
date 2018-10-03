@@ -8,18 +8,18 @@ The main goal of this lecture:
 
 ## Part two: programming
 
-for all students
+#### for all students
 
-1. Multivariate Analysis: 
-a. Correlation Headmap
-b. PCA
-c. LDA (linear discriminant analysis, not the text mining one....)
-d. Introduction to F1, recall and precision: common metrics for machine learning
+##### Multivariate Analysis with Visualization
+1. Correlation Headmap
+2. PCA
+3. LDA (linear discriminant analysis, not the text mining one....)
+4. Introduction to F1, recall and precision: common metrics for machine learning
 
-2. Visualization with Flask
-a. build your data analytic web app!
+##### Visualization with Flask
+build your data analytic web app!
 
-Reference: 
+#### Reference: https://python-for-multivariate-analysis.readthedocs.io/a_little_book_of_python_for_multivariate_analysis.html
 
 for the new students only (a makeup 30min section after class, or make an appointment with me)
 1. terminal operation: call jupyter notebook, learn about 'pip install XXXXX'
@@ -37,19 +37,19 @@ for the new students only (a makeup 30min section after class, or make an appoin
 ## Prepare for Next week
 For Next Week: Introduction to Machine Learning for Classification
 
-1. Logistic Regression: 
-a. example question, concepts, data analysis
-b. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
-c. Binary Classification
-d. One vs. Rest: Multiple Categories Classification
+##### Logistic Regression: 
+1. example question, concepts, data analysis
+2. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
+3. Binary Classification
+4. One vs. Rest: Multiple Categories Classification
 
-2. Naive Bayes:
+##### Naive Bayes:
 Why Naive Bayes is naive?
 
-3. SVM: 
+##### SVM: 
 Explain how SVM works.
 What is the difference between SVM and Random Forest?
 
 
-Reference: 
+#### Reference: 
 1. https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
