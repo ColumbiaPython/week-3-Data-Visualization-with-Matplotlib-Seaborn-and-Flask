@@ -36,7 +36,7 @@ build your data analytic web app!
 3. upload new files into github (reference papers, data & codes)
 
 
-## Prepare for Next week
+## Prepare for Next Week
 For Next Week: Introduction to Machine Learning for Classification
 
 ##### Logistic Regression: 
