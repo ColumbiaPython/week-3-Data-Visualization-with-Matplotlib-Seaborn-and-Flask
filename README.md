@@ -1,4 +1,4 @@
-# Multivariate Analysis and Data Visualization with Matplotlib, Seaborn and Flask
+# Multivariate Analysis and Data Visualization with Matplotlib and Seaborn
 
 The main goal of this lecture:
 
